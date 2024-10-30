@@ -1,4 +1,10 @@
-# Manvillarim's GitHub Profile
+## Manoel Villarim
 
-![manvillarim stats](https://github-readme-stats.vercel.app/api?username=manvillarim&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manvillarim&layout=donut)](https://github.com/manvillarim/github-readme-stats)
+**Computer Engineering Student at Cin-UFPE**
+
+I have experience in Web3 development in the Ethereum universe, especially in the area of ​​Software Testing and Formal Verification, including Foundry Fuzzing and symbolic tools such as Certora, Halmos, HEVM and Kontrol.
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python logo"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/solidity.png" alt="Solidity logo"/>
+</div>
